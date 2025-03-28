@@ -1,0 +1,16 @@
+<h2 class='indent'><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+<summary>
+<p style='font-style: italic;'>📅 {{post.date|date: "%-d %B %Y"}}
+ | 🏷️ Tags:&nbsp;
+  {% for posttag in post.tags %}
+  <a href="{{site.baseurl}}/tags/{{posttag}}">#{{posttag}}</a>{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+</p><br>
+{{post.excerpt}}<br>
+{% if post.thumbnail %}
+{% if post.thumbnail != "" %}
+<p><img class='thumbnail' style='max-width: min(600px, 90%); max-height: 330px;' src="{{site.baseurl}}{{post.thumbnail}}" alt="thumbnail"></p>
+{% endif %}
+{% endif %}
+<p><a href="{{site.baseurl}}{{post.url}}">Continue reading →</a></p>
+</summary>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="description" content="{{site.description}}"/>
+  <meta name="author"      content="{{site.author}}"/>
+  <meta name="viewport"    content="width=device-width,initial-scale=1.0">
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+  <link rel="shortcut icon" href="{{site.baseurl}}/images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet"    href="{{site.baseurl}}/css/simple-sidebar.css" />
+  <link rel="stylesheet"    href="{{site.baseurl}}/css/style.min.css" />
+  <script type="text/javascript" src="{{site.baseurl}}/js/jquery.min.js"></script>
+  <script type="text/javascript" src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="{{site.occt_wasm}}/xterm/xterm.css" />
+  <link rel="preload" href="{{site.occt_wasm}}/fonts/ubuntu_mono.woff2" as="font" type="font/woff2" crossorigin="anonymous" />
+</head>
+
+<body>
+
+{% assign uniqtags = site.posts | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+{% assign grouptag = site.posts | map: 'tags' | join: ','  | split: ',' | group_by: tag %}
+{% assign catlist  = site.posts | map: 'categories' | join: ','  | split: ',' | group_by: category %}
+
+<div id="wrapper">
+  <nav id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+      <li class="sidebar-brand"><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/occt_draw_logo.png" alt="logo" /></a></li>
+      <li><a href="{{site.baseurl}}/">All tags</a>
+	<ul>
+{%- for tagIter in grouptag -%}
+	  <li><a class="post" href="{{site.baseurl}}/tags/{{- tagIter.name -}}/">#{{- tagIter.name -}}&nbsp;[{{tagIter.size}}]</a></li>
+{%- endfor -%}
+	</ul>
+      </li>
+      <li><a href="#">Categories</a>
+	<ul>
+{%- for catIter in catlist -%}
+	  <li><a class="post" href="{{site.baseurl}}/{{- catIter.name -}}/">#{{- catIter.name -}}&nbsp;[{{catIter.size}}]</a></li>
+{%- endfor -%}
+	</ul>
+      </li>
+    </ul>
+  </nav>
+
+<script>
+  // highlight currently opened page within navigation bar
+  // with the style ".sidebar-nav li a.active"
+  let aSideBar = document.getElementById ("sidebar-wrapper")
+  let anItems = aSideBar.getElementsByTagName ("a");
+  for (let anElemIter = 0; anElemIter < anItems.length; ++anElemIter)
+  {
+    let anElem = anItems[anElemIter];
+    if (anElem.href == window.location.href && window.location.pathname != "/" && window.location.pathname != "{{site.baseurl}}/")
+    {
+      anElem.classList.add ("active");
+    }
+  }
+</script>
+
+  <div id="page-content-wrapper">
+
+{{ content }}
+
+  </div> <!-- page-content-wrapper -->
+
+  <div align="right" style="padding-right: 20px;"><p>Copyright © <a href="{{site.baseurl}}/about">Kirill Gavrilov Tartynskih</a>, 2014-2025</p></div>
+</div> <!-- wrapper -->
+
+</body>
+</html>
