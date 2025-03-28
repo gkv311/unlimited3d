@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="330"
+   height="350"
+   viewBox="0 0 330 350.00001"
+   id="svg486"
+   sodipodi:docname="CIE1931xy_gamut_comparison.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview488"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.9688177"
+     inkscape:cx="272.49857"
+     inkscape:cy="184.88253"
+     inkscape:window-width="1920"
+     inkscape:window-height="977"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg486" />
+  <title
+     id="title336">CIE1931xy gamut comparison</title>
+  <desc
+     id="desc338">Comparison of some RGB and CMYK colour gamuts on a CIE 1931 xy chromaticity diagram, drawn by CMG Lee, based on http://commons.wikimedia.org/wiki/File:CIE1931xy_blank.svg and data from Blatner and Fraser's &quot;Real World Photoshop CS&quot;, p179: http://canopuscomputing.com.au/gallery2/d/8631-1/Gamuts_comparison-B_F.jpg .</desc>
+  <defs
+     id="defs381">
+    <path
+       id="border"
+       d="m 150,473 c -3,0 -5,-2 -8,-4 -7,-7 -13,-14 -18,-23 -3,-5 -6,-10 -8,-15 -3,-7 -6,-15 -9,-23 C 103,396 99,385 95,373 86,339 77,298 72,264 66,226 61,179 62,141 63,118 65,81 80,60 84,54 91,50 98,49 c 7,-1 14,2 20,4 22,7 42,23 60,37 58,45 109,101 161,153 21,21 41,41 62,62 8,8 16,16 25,24 2,3 4,5 7,8 1,0 1,1 2,2 0,0 1,1 1,1" />
+    <path
+       id="gamut_p"
+       d="m 20,-5 130,-844 585,584 z" />
+    <path
+       id="gamut_a"
+       d="m 157,-70 52,-644 434,382 z" />
+    <path
+       id="gamut_s"
+       d="m 162,-78 139,-519 336,265 z" />
+    <path
+       id="gamut_c"
+       d="m 155,-70 135,-546 350,281 z" />
+    <path
+       id="gamut_k"
+       d="m 212,-128 -42,-102 64,-316 211,38 169,187 -154,86 z" />
+    <g
+       id="outlines">
+      <use
+         xlink:href="#gamut_p"
+         id="use346" />
+      <use
+         xlink:href="#gamut_a"
+         id="use348" />
+      <use
+         xlink:href="#gamut_s"
+         id="use350" />
+      <use
+         xlink:href="#gamut_c"
+         id="use352" />
+      <use
+         xlink:href="#gamut_k"
+         id="use354" />
+    </g>
+    <g
+       id="lines">
+      <use
+         xlink:href="#gamut_p"
+         stroke="#660099"
+         id="use357" />
+      <use
+         xlink:href="#gamut_a"
+         stroke="#ff6600"
+         stroke-dasharray="16, 2"
+         id="use359" />
+      <use
+         xlink:href="#gamut_s"
+         stroke="#000000"
+         stroke-dasharray="5, 2"
+         id="use361" />
+      <use
+         xlink:href="#gamut_c"
+         stroke="#006666"
+         stroke-dasharray="16, 2, 2, 2"
+         id="use363" />
+      <use
+         xlink:href="#gamut_k"
+         stroke="#cc00cc"
+         stroke-width="5"
+         id="use365" />
+    </g>
+    <g
+       id="labels">
+      <text
+         x="140"
+         y="-860"
+         text-anchor="start"
+         fill="#660099"
+         id="text368">ProPhoto RGB</text>
+      <text
+         x="205"
+         y="-720"
+         text-anchor="start"
+         fill="#ff6600"
+         id="text370">Adobe RGB 1998</text>
+      <text
+         x="295"
+         y="-598"
+         text-anchor="start"
+         fill="#000000"
+         id="text372">sRGB</text>
+      <text
+         x="290"
+         y="-620"
+         text-anchor="end"
+         fill="#006666"
+         id="text374">Colormatch RGB</text>
+      <text
+         x="240"
+         y="-555"
+         text-anchor="end"
+         fill="#cc00cc"
+         id="text376">SWOP CMYK</text>
+      <text
+         x="275"
+         y="-335"
+         text-anchor="start"
+         fill="#333333"
+         id="text378">D65 white point</text>
+    </g>
+  </defs>
+  <clipPath
+     id="clipborder">
+    <use
+       xlink:href="#border"
+       id="use385" />
+  </clipPath>
+  <g
+     id="g594"
+     transform="matrix(0.66339252,0,0,0.66339252,2.3192263,2.4383845)">
+    <path
+       opacity="0.25"
+       stroke="#000000"
+       stroke-width="1"
+       fill="#ffffff"
+       d="M 85.5,475.5 V 14.7 m 26,460.8 V 14.7 m 25,460.8 V 40.3 m 26,435.2 V 65.9 m 26,409.6 v -384 m 25,384 V 117.1 m 26,358.4 V 142.7 m 25,332.8 V 168.3 m 26,307.2 V 193.9 m 26,281.6 v -256 m 25,256 V 245.1 m 26,230.4 V 270.7 m 25,204.8 V 296.3 m 26,179.2 V 321.9 m 26,153.6 v -128 m 25,128 V 373.1 m -409,77.4 h 409.6 m -409.6,-26 h 409.6 m -409.6,-25 h 409.6 m -409.6,-26 h 409.6 m -409.6,-26 h 384 m -384,-25 h 358.4 m -358.4,-26 h 332.8 m -332.8,-25 h 307.2 m -307.2,-26 h 281.6 m -281.6,-26 h 256 m -256,-25 H 290.9 M 60.5,168.5 H 265.3 M 60.5,143.5 H 239.7 M 60.5,117.5 H 214.1 M 60.5,91.5 h 128 m -128,-25 H 162.9 M 60.5,40.5 h 76.8 m -76.8,-25 h 51.2 m -0.2,0 358,358"
+       id="path383" />
+    <g
+       clip-path="url(#clipborder)"
+       id="g390">
+      <!-- mediawiki thinks it contains a script
+  <filter id="blur"><feGaussianBlur stdDeviation="0.5"/></filter>
+   filter="url(#blur)"
+ -->
+      <image
+         opacity="0.5"
+         width="27"
+         height="28"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAcCAIAAAAfs1O6AAAAAXNSR0IArs4c6QAAA7tJREFUeF591cuKHFUYwPH/d+rUpaenZ5JMLkaMuBAJQly5EeJCtz6M+AC+khvxIbIw4AVMAsEQJ5kkM+mpnumu7rqdz65zOHQxgvCnqCqoX38f1XQL+gsALTRQwwYquIRzOIHH3/HkM/gQbsF1uKbMlKljryfvyDpsS9JgtrVIi0UNgCQwzsYywMS7KVhIdci6oaTDxCSIkACgEbpSGkV/raShwPVe9FCIJn48muB1346LM4aLUBwwcF40DdKAP5r4cETHXBSTEZ/5AdMe25F4a8SNZ8T+t6uikoXCgHE0qaEOxyjuUB0vl43FFPJtSu5I4/s1NSZyxBODBiimV7ic8MqjmPVerDEbZAOjYzgJECgIoODAoxEhDlgohSNvd5ysI9dAqMWgCTpeOUOj5Z0jHuYcTpRtRUdaY9eYakgqqAaXyrceMuNliSv7im0Zk5t8co2vpnw67Ska0jVmNcQSWQ2xrdqhCT9+DwZklwiAOGge4h6Qf0xx1x3caPYmyxO7wFx6bumttW/jq2EziD9E0SAmnCOAIt3XmPtbUfM7XX6wKrJylsyPWSAXEMTqKmpxFkAUHDpGFeoPSI6or7v9WV1kl2JKlUXC+Z8sy0Gpfa2vC4UXAqh6IkEckgwZ8wC9w+wmzfV2NblMkrKVsqHsKYXF31THnov1Xuyx9BaIa/pIMT2afm7y2/RHrp1VF+l5I/OVzNect5z3LISLnNVz2gDtilsDeBS8C+I+Qm+i19omnztzNpWzKfN93teUHaWjhDJl/gTHOEtnxyAICio4ua1y4HRSrZN3Be9yTgvOJsy3bsu840x5Ba9n0EdPwVm6BAiKvyP0hla+rc2Bo2jVLFveWN5kbN3TCWcbThtetTwXmELnC2jvxdaAh0KdUAuV3Ktkr8XWjguj7ywnGW+35RwX/NGA8VzrC2IXxSbxInQ7jnO5sSKvMRWUom8TfW35J5VHGW4K5r9fnCj2diCAXmiFmoFbyL0TZhuyFeYSPYVjw++WNwXsg0ACqa8NXRENQMtAr+FCOOX+a/ZW2BI5hWeiT42SCYXSCRpQXwM20MTFDWuGKmEJC+E9vOTWS4pn2F/V/AxPcSRKqmThNxeK/8myFoANrIQS3sJfHL6geEwBFgUUo7tNs/hFAST+URroIPFbV16s4IIw4Bc/cQsOIQcTn1QS9QsKveIEBUaoQBK3rhi6JAzIb3wJRzCFDDUAKEIYE+tLNc7rS8MxZFkCccAXfPOIuzCDHLVxRkXUbxdQoSdOSlwiZv4FiZsWgB+yll0AAAAASUVORK5CYII="
+         transform="matrix(16,0,0,16,36,35.8)"
+         id="image388" />
+    </g>
+    <use
+       stroke="#000000"
+       stroke-width="1"
+       fill="none"
+       xlink:href="#border"
+       id="use392" />
+    <path
+       d="m 148.4,473.3 -0.4,6 m 0.1,-6 -1.3,5.9 m 1,-6 -4.5,8.9 m 3.9,-9.3 -3.4,4.9 m 2.7,-5.4 -3.8,4.7 m 2.8,-5.6 -4,4.5 m 2.7,-5.7 -6.7,7.4 m 5,-8.9 -4,4.5 m 1.7,-6.5 -4,4.5 m 1.1,-7 -4.1,4.4 m 0.5,-8 -7.4,6.8 m 3.1,-12 -4.8,3.5 m -1.1,-12.7 -5.2,3 m -2.2,-17.9 -5.5,2.5 m -3.9,-25.9 -9.4,3.4 m -2.1,-38.3 -5.8,1.7 m -6.2,-49.9 -5.9,1.3 m -5.3,-61.6 -5.9,0.9 m -1.9,-65.3 -10,0.8 M 62,140.5 56,140.3 M 67.1,91.7 61.3,90.2 M 79.9,60 75.3,56.1 M 98,48.9 96.2,39.1 m 22.3,13.7 1.9,-5.7 m 18.8,16.1 3,-5.2 m 16.6,17.6 3.4,-4.9 m 15.4,18.9 6.2,-7.9 m 12.3,23.2 3.9,-4.5 m 14.4,20.9 4,-4.4 m 14.3,21.6 4.1,-4.4 m 14.2,22 7,-7.2 m 11.3,25 4.2,-4.3 m 13.9,22.2 4.2,-4.3 m 13.5,22 4.2,-4.3 m 13.1,21.5 7.1,-7.1 m 9.4,23.5 4.2,-4.3 m 11.4,19.8 4.2,-4.3 m 10,18.5 4.2,-4.2 m 8.1,16.5 7.1,-7.1 m 3.8,17.9 4.2,-4.3 m 4.8,13.2 4.2,-4.3 m 3.1,11.6 4.2,-4.2 m 1.7,10 7.1,-7.1 m -2.5,11.8 4.2,-4.3 m -0.4,8 4.2,-4.3 m -1.1,7.4 4.2,-4.2 m -1.7,6.8 7.1,-7.1 m -5,9.1 4.2,-4.3 m -2.7,5.8 4.2,-4.2 m -3,5.4 4.2,-4.2 m -3.4,5 7.1,-7.1 m -6.5,7.7 4.2,-4.2 m -3.7,4.7 4.2,-4.2 m -3.8,4.6 4.2,-4.2 m -3.9,4.5 7.1,-7.1 m -6.8,7.4 4.2,-4.2 m -4,4.4 4.2,-4.2 m -4.1,4.3 4.2,-4.2"
+       stroke="#000000"
+       stroke-width="1"
+       id="path394" />
+    <path
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="square"
+       fill="none"
+       d="m 60,15 v 461 h 410 m -410,0 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 25,-4 v 4 m 26,-4 v 4 m 26,-4 v 4 M 60,476 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4 m 4,-25 h -4 m 4,-26 h -4"
+       id="path396" />
+    <g
+       font-family="'Nimbus Roman No9 L', Times, serif"
+       font-size="19px"
+       stroke="none"
+       id="g466">
+      <g
+         fill="#0000ff"
+         text-anchor="start"
+         id="g416">
+        <text
+           x="124.9"
+           y="474.70001"
+           text-anchor="end"
+           id="text398">460</text>
+        <text
+           x="95.5"
+           y="418"
+           text-anchor="end"
+           id="text400">480</text>
+        <text
+           x="52.200001"
+           y="207.10001"
+           text-anchor="end"
+           id="text402">500</text>
+        <text
+           x="95.900002"
+           y="37.099998"
+           text-anchor="middle"
+           id="text404">520</text>
+        <text
+           x="185"
+           y="80.099998"
+           id="text406">540</text>
+        <text
+           x="259.39999"
+           y="147.5"
+           id="text408">560</text>
+        <text
+           x="330.89999"
+           y="218.2"
+           id="text410">580</text>
+        <text
+           x="389.5"
+           y="276.60001"
+           id="text412">600</text>
+        <text
+           x="422.5"
+           y="309.39999"
+           id="text414">620</text>
+      </g>
+      <g
+         fill="#000000"
+         id="g464">
+        <g
+           text-anchor="middle"
+           id="g438">
+          <text
+             x="264.79999"
+             y="515.79999"
+             font-style="italic"
+             id="text418">x</text>
+          <text
+             x="60"
+             y="495.79999"
+             id="text420">0.0</text>
+          <text
+             x="111.2"
+             y="495.79999"
+             id="text422">0.1</text>
+          <text
+             x="162.39999"
+             y="495.79999"
+             id="text424">0.2</text>
+          <text
+             x="213.60001"
+             y="495.79999"
+             id="text426">0.3</text>
+          <text
+             x="264.79999"
+             y="495.79999"
+             id="text428">0.4</text>
+          <text
+             x="316"
+             y="495.79999"
+             id="text430">0.5</text>
+          <text
+             x="367.20001"
+             y="495.79999"
+             id="text432">0.6</text>
+          <text
+             x="418.39999"
+             y="495.79999"
+             id="text434">0.7</text>
+          <text
+             x="469.60001"
+             y="495.79999"
+             id="text436">0.8</text>
+        </g>
+        <g
+           text-anchor="end"
+           id="g462">
+          <text
+             x="20"
+             y="251.39999"
+             font-style="italic"
+             id="text440">y</text>
+          <text
+             x="52"
+             y="481.79999"
+             id="text442">0.0</text>
+          <text
+             x="52"
+             y="430.60001"
+             id="text444">0.1</text>
+          <text
+             x="52"
+             y="379.39999"
+             id="text446">0.2</text>
+          <text
+             x="52"
+             y="328.20001"
+             id="text448">0.3</text>
+          <text
+             x="52"
+             y="277"
+             id="text450">0.4</text>
+          <text
+             x="52"
+             y="225.8"
+             id="text452">0.5</text>
+          <text
+             x="52"
+             y="174.60001"
+             id="text454">0.6</text>
+          <text
+             x="52"
+             y="123.4"
+             id="text456">0.7</text>
+          <text
+             x="52"
+             y="72.199997"
+             id="text458">0.8</text>
+          <text
+             x="52"
+             y="21"
+             id="text460">0.9</text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.512,0,0,0.512,60.5,475.5)"
+       font-family="sans-serif"
+       font-weight="bold"
+       font-size="32px"
+       letter-spacing="-1"
+       stroke-width="3"
+       stroke-linejoin="round"
+       stroke="#ffffff"
+       fill="none"
+       id="g484">
+      <circle
+         class="line"
+         cx="310"
+         cy="-316"
+         r="10"
+         stroke="#333333"
+         id="circle468" />
+      <use
+         xlink:href="#outlines"
+         stroke-opacity="0.25"
+         stroke-width="7"
+         id="use470" />
+      <use
+         xlink:href="#outlines"
+         stroke-opacity="0.5"
+         stroke-width="5"
+         id="use472" />
+      <use
+         xlink:href="#lines"
+         id="use474" />
+      <use
+         xlink:href="#lines"
+         stroke-opacity="0.5"
+         id="use476" />
+      <use
+         xlink:href="#labels"
+         stroke-opacity="0.25"
+         stroke-width="5"
+         id="use478" />
+      <use
+         xlink:href="#labels"
+         stroke-opacity="0.5"
+         id="use480" />
+      <use
+         xlink:href="#labels"
+         stroke="none"
+         id="use482" />
+    </g>
+  </g>
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>CIE1931xy gamut comparison</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
