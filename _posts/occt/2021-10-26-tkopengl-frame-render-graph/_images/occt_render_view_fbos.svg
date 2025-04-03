@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="750"
+   height="210"
+   viewBox="0 0 198.4375 55.5625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="occt_render_view_fbos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.87006647"
+     inkscape:cx="580.99009"
+     inkscape:cy="551.10732"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.897133,-10.439224)">
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.264999;stroke-linecap:square;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect846"
+       width="199.31413"
+       height="55.759922"
+       x="11.897133"
+       y="10.439224"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g80374"
+       transform="translate(5.8208337,2.1166667)"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.281253;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect4082"
+         width="184.92708"
+         height="26.17708"
+         x="10.74294"
+         y="13.221382" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="14.921817"
+         y="22.132549"
+         id="text11805"><tspan
+           sodipodi:role="line"
+           id="tspan11803"
+           style="font-weight:bold;font-size:7.05556px;stroke-width:0.264583px"
+           x="14.921817"
+           y="22.132549">Persistent Content</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583px"
+           x="14.921817"
+           y="30.952"
+           id="tspan29219">OpenGl_View::Redraw()</tspan></text>
+    </g>
+    <g
+       id="g80368"
+       transform="translate(-3.7041666,3.7041668)"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect34044"
+         width="78.762047"
+         height="18.454554"
+         x="123.58785"
+         y="14.799981" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="199.89299"
+         y="22.394512"
+         id="text35583"><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:5.64444px;text-align:end;text-anchor:end;stroke-width:0.264583px"
+           x="199.89299"
+           y="22.394512"
+           id="tspan54600">FBO set #1: Color+Depth,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:5.64444px;text-align:end;text-anchor:end;stroke-width:0.264583px"
+           x="199.89299"
+           y="29.450062"
+           id="tspan60248">OIT, Ray-Tracing</tspan></text>
+    </g>
+    <g
+       id="g80380"
+       transform="translate(11.112501,-7.4083335)"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#cae5fc;fill-opacity:1;stroke:#000000;stroke-width:0.287979;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect30736"
+         width="184.92035"
+         height="26.170355"
+         x="10.751814"
+         y="42.863617" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="16.509315"
+         y="51.270287"
+         id="text13739"><tspan
+           sodipodi:role="line"
+           id="tspan13737"
+           style="font-weight:bold;font-size:7.05556px;stroke-width:0.264583px"
+           x="16.509315"
+           y="51.270287">Immediate Content</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583px"
+           x="16.509315"
+           y="60.089737"
+           id="tspan26045">OpenGl_View::RedrawImmediate()</tspan></text>
+    </g>
+    <g
+       id="g80362"
+       transform="translate(2.1166668,-6.3500001)"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect64149"
+         width="78.177872"
+         height="17.286207"
+         x="123.58785"
+         y="44.962505" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="199.89299"
+         y="52.557041"
+         id="text64155"><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:5.64444px;text-align:end;text-anchor:end;stroke-width:0.264583px"
+           x="199.89299"
+           y="52.557041"
+           id="tspan64151">FBO set #2: Color+Depth,</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:5.64444px;text-align:end;text-anchor:end;stroke-width:0.264583px"
+           x="199.89299"
+           y="59.612591"
+           id="tspan64153">OIT</tspan></text>
+    </g>
+    <g
+       id="g81438"
+       transform="translate(-3.2850156,68.877577)"
+       inkscape:export-filename="rect846.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

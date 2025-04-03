@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="634"
+   viewBox="0 0 132.29167 167.74584"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="occt_render_struct.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.87006647"
+     inkscape:cx="286.7597"
+     inkscape:cy="287.90904"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path246427" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-173.24165,-78.974754)">
+    <g
+       id="g81438"
+       transform="translate(-3.2850156,68.877577)"
+       inkscape:export-filename="rect846.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.264999;stroke-linecap:square;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect254928"
+       width="132.37607"
+       height="167.79099"
+       x="173.24165"
+       y="78.974754"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g254938"
+       transform="translate(170.47566,76.675334)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect254930"
+         width="124.03588"
+         height="71.314995"
+         x="7.4307652"
+         y="96.163139" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="14.870653"
+         y="104.31249"
+         id="text254936"><tspan
+           sodipodi:role="line"
+           id="tspan254932"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.870653"
+           y="104.31249">Capping planes pass</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.870653"
+           y="113.13194"
+           id="tspan254934">OpenGl_CappingAlgo::RenderCapping()</tspan></text>
+    </g>
+    <g
+       id="g254974"
+       transform="translate(168.82337,-46.27459)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect254966"
+         width="123.98899"
+         height="57.638618"
+         x="9.1065149"
+         y="156.98152" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="165.10722"
+         id="text254972"><tspan
+           sodipodi:role="line"
+           id="tspan254968"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="165.10722">Geometry pass</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="173.92667"
+           id="tspan254970">OpenGl_Structure::renderGeometry()</tspan></text>
+    </g>
+    <g
+       id="g254984"
+       transform="translate(168.82336,-73.218214)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.213503;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect254976"
+         width="124.04581"
+         height="22.516361"
+         x="9.078105"
+         y="156.95549" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="165.75043"
+         id="text254982"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="165.75043"
+           id="tspan254980">Matrix state</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="174.56987"
+           id="tspan320855">Clipping planes state</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.265419;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect254996"
+       width="118.71879"
+       height="33.571564"
+       x="180.59523"
+       y="131.90936"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="187.15486"
+       y="142.01665"
+       id="text255002"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="187.15486"
+         y="142.01665"
+         id="tspan255000"><tspan
+   id="tspan280735"
+   style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="font-size:5.64444px"
+   id="tspan301465">Group 1..N:</tspan> </tspan>OpenGl_Group::Render()</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 239.91971,106.25999 v 4.38131"
+       id="path255006"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 239.91971,168.17288 v 4.38131"
+       id="path255010"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g254956"
+       transform="translate(174.03552,-9.8153983)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect254950"
+         width="113.47045"
+         height="15.652908"
+         x="9.0663815"
+         y="156.94676" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="12.521805"
+         y="167.70793"
+         id="text254954"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="12.521805"
+           y="167.70793"
+           id="tspan254952"><tspan
+             style="font-size:5.64444px"
+             id="tspan299945">Element 1..M: </tspan><tspan
+             style="font-style:italic;font-size:4.93889px"
+             id="tspan284913">OpenGl_Element::Render()</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.265419;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect310266"
+       width="118.71878"
+       height="46.271378"
+       x="180.59523"
+       y="193.82103"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.265419;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect309770"
+       width="115.72401"
+       height="32.229057"
+       x="182.041"
+       y="206.52086"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g309782"
+       transform="translate(174.03552,64.797144)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect309772"
+         width="113.47045"
+         height="15.652908"
+         x="9.0663815"
+         y="156.94676" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="12.521805"
+         y="167.70793"
+         id="text309780"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="12.521805"
+           y="167.70793"
+           id="tspan309778"><tspan
+             style="font-size:5.64444px"
+             id="tspan309774">Element 1..M: </tspan><tspan
+             style="font-style:italic;font-size:4.93889px"
+             id="tspan309776">OpenGl_Element::Render()</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="187.15486"
+       y="216.09898"
+       id="text310025"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="187.15486"
+         y="216.09898"
+         id="tspan310023"><tspan
+   id="tspan310021"
+   style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="font-size:5.64444px"
+   id="tspan310019">Group 1..N:</tspan> </tspan>OpenGl_Group::Render()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="187.15486"
+       y="201.81169"
+       id="text310472"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="187.15486"
+         y="201.81169"
+         id="tspan310470"><tspan
+           id="tspan310468"
+           style="font-style:normal;font-size:5.64444px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none">Plane 1..P</tspan></tspan></text>
+  </g>
+</svg>

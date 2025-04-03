@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="720"
+   viewBox="0 0 132.29166 190.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="occt_render_view_zlayers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.87006647"
+     inkscape:cx="520.07521"
+     inkscape:cy="176.4233"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path246427" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.864319,-66.388145)">
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.264999;stroke-linecap:square;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect81428"
+       width="132.37605"
+       height="190.92313"
+       x="21.864319"
+       y="66.388145"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g81438"
+       transform="translate(-3.2850156,68.877577)"
+       inkscape:export-filename="rect846.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g155561"
+       transform="translate(19.098177,50.179132)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect123354"
+         width="124.03587"
+         height="20.919996"
+         x="7.4307652"
+         y="96.163139" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="14.870653"
+         y="104.31249"
+         id="text119316"><tspan
+           sodipodi:role="line"
+           id="tspan119314"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.870653"
+           y="104.31249">Frustum Culling</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.870653"
+           y="113.13194"
+           id="tspan127633">OpenGl_LayerList::UpdateCulling()</tspan></text>
+    </g>
+    <g
+       id="g155555"
+       transform="translate(18.985481,44.071814)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect116894"
+         width="123.89651"
+         height="20.786505"
+         x="7.4954958"
+         y="127.44951" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="14.044506"
+         y="135.53331"
+         id="text123410"><tspan
+           sodipodi:role="line"
+           id="tspan123408"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.044506"
+           y="135.53331">Ray-Tracing pass</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="14.044506"
+           y="144.35275"
+           id="tspan125417">OpenGl_View::raytrace()</tspan></text>
+    </g>
+    <g
+       id="g155567"
+       transform="translate(19.861377,62.297296)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect130979"
+         width="118.8404"
+         height="15.652903"
+         x="9.0663815"
+         y="156.94676" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="167.70793"
+         id="text130985"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="167.70793"
+           id="tspan206960">Opaque pass</tspan></text>
+    </g>
+    <g
+       id="g155573"
+       transform="translate(19.861378,-0.01312744)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#cae5fc;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect135037"
+         width="118.7345"
+         height="15.54701"
+         x="9.1193256"
+         y="234.98647" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="245.69467"
+         id="text135043"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="245.69467"
+           id="tspan209226">Transparent pass</tspan></text>
+    </g>
+    <g
+       id="g155910"
+       transform="translate(17.445881,-35.729072)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#d0f8ce;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect155902"
+         width="123.98898"
+         height="20.875067"
+         x="9.1065149"
+         y="156.98152" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="165.10722"
+         id="text155908"><tspan
+           sodipodi:role="line"
+           id="tspan155904"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="165.10722">Background pass</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="173.92667"
+           id="tspan155906">OpenGl_View::render()</tspan></text>
+    </g>
+    <g
+       id="g170830"
+       transform="translate(17.44588,-85.956044)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e3e3e3;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect170822"
+         width="123.98898"
+         height="20.875067"
+         x="9.1065149"
+         y="156.9839" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="165.59129"
+         id="text170828"><tspan
+           sodipodi:role="line"
+           id="tspan170824"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="165.59129">Framebuffer resize</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="174.41074"
+           id="tspan170826">OpenGl_View::prepareFrameBuffers()</tspan></text>
+    </g>
+    <g
+       id="g170840"
+       transform="translate(17.445881,-60.842558)"
+       style="stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e2cef8;fill-opacity:1;stroke:#000000;stroke-width:0.270325;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+         id="rect170832"
+         width="123.98898"
+         height="20.875067"
+         x="9.1065149"
+         y="156.98271" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="15.696802"
+         y="165.10722"
+         id="text170838"><tspan
+           sodipodi:role="line"
+           id="tspan170834"
+           style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="165.10722">Shadowmaps pass</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+           x="15.696802"
+           y="173.92667"
+           id="tspan170836">OpenGl_View::renderShadowMap()</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265419;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.0157;stroke-opacity:1"
+       id="rect183463"
+       width="124.08875"
+       height="57.942917"
+       x="26.42123"
+       y="195.55551"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="32.9809"
+       y="205.6628"
+       id="text130985-5"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan130981-6"
+         style="font-size:7.05556px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="32.9809"
+         y="205.6628">Z-Layers pass [layer 1...N]</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-size:4.93889px;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="32.9809"
+         y="214.48224"
+         id="tspan130983-4">OpenGl_LayerList::Render()</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 88.542227,91.405332 v 4.38131"
+       id="path246324"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 88.542227,116.80554 v 4.38131"
+       id="path246690"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 88.542227,142.2057 v 4.38131"
+       id="path246692"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="M 88.542227,167.07669 V 171.458"
+       id="path246694"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 88.542227,192.09372 v 4.38131"
+       id="path246696"
+       inkscape:export-filename="occt_frame.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
